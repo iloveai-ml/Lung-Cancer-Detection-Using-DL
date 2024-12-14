@@ -161,9 +161,6 @@ Test Accuracy: 0.968666672706604
 ![15d0027c-c414-4901-bab9-6b68a7c13648](https://github.com/user-attachments/assets/612b5103-ca6b-4113-be9d-efc4e0018ea4)
 
 
-### You Can View My Notebook Below
-
-https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17684858/LC25000-main.pdf
 
 
 ## For LIDC
