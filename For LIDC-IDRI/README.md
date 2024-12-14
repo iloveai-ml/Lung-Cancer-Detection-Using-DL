@@ -47,6 +47,4 @@ Test Accuracy: 0.9200968742370605
 ![794bfe62-e017-478a-8a2b-31ab50f9de05](https://github.com/user-attachments/assets/63d52fd5-697a-47c4-a0fa-70cca41c0cf7)
 
 
-# You Can View My Notebook Below
 
-https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17684884/LIDC-main.pdf
