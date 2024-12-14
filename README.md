@@ -115,9 +115,6 @@ Test Accuracy: 0.9863636493682861
 ![4ad23f52-b902-4ba4-9f83-a3834fe0cd37](https://github.com/user-attachments/assets/37ef3333-7916-491a-b2b4-85f0e87224df)
 
 
-### You Can View My Notebook Below
-
-https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17684651/IQOTH-main.pdf
 
 
 ## For LC25000
@@ -212,7 +209,5 @@ Test Accuracy: 0.9200968742370605
 ![794bfe62-e017-478a-8a2b-31ab50f9de05](https://github.com/user-attachments/assets/63d52fd5-697a-47c4-a0fa-70cca41c0cf7)
 
 
-### You Can View My Notebook Below
 
-https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17684884/LIDC-main.pdf
 
