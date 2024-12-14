@@ -47,6 +47,4 @@ Test Accuracy: 0.9863636493682861
 ![4ad23f52-b902-4ba4-9f83-a3834fe0cd37](https://github.com/user-attachments/assets/37ef3333-7916-491a-b2b4-85f0e87224df)
 
 
-# You Can View My Notebook Below
 
-https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17684651/IQOTH-main.pdf
